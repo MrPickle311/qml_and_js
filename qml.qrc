@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>myScript.js</file>
+        <file>Sprite.qml</file>
+        <file>ModelSprite.qml</file>
+    </qresource>
+</RCC>
