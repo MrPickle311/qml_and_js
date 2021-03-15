@@ -4,5 +4,7 @@
         <file>myScript.js</file>
         <file>Sprite.qml</file>
         <file>ModelSprite.qml</file>
+        <file>variables.js</file>
+        <file>hoisting.js</file>
     </qresource>
 </RCC>

@@ -19,7 +19,6 @@ add_executable(qml5
       qml.qrc
     )
 
-
 target_compile_definitions(qml5
   PRIVATE $<$<OR:$<CONFIG:Debug>,$<CONFIG:RelWithDebInfo>>:QT_QML_DEBUG>)
 target_link_libraries(qml5

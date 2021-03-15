@@ -1,4 +1,4 @@
-var component;
+var component; //deklaracja zmiennej
 var sprite;
 
 function createSpriteObjects()
@@ -19,6 +19,7 @@ function finishCreation()
             // Error Handling
             console.log("Error creating object");
         }
+
     }
     else if (component.status == Component.Error)
     {
