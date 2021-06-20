@@ -6,5 +6,6 @@
         <file>ModelSprite.qml</file>
         <file>variables.js</file>
         <file>hoisting.js</file>
+        <file>const.js</file>
     </qresource>
 </RCC>
